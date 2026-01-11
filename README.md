@@ -13,7 +13,7 @@ If you find this project useful for your research, please consider citing it:
 ```bibtex
 @thesis{Stoelzle2024,
   author       = {St{\"o}lzle, Johannes},
-  title        = {Model for Selecting Optimal Drive Technologies for Rail Transport: The Radolfzell–Friedrichshafen Line},
+  title        = {Model for Selecting Optimal Drive Technologies for Rail Transport: The Radolfzell–Friedrichshafen Line },
   school       = {Kantonsschule Romanshorn},
   year         = 2024,
   type         = {Thesis},
