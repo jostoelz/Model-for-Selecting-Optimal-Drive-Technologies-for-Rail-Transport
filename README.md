@@ -17,7 +17,7 @@ If you find this project useful for your research, please consider citing it:
   institution = {Kantonsschule Romanshorn},
   year        = {2024},
   type        = {Thesis},
-  url         = {https://github.com/jostoelz/Model-for-Selecting-Optimal-Drive-Technologies-for-Rail-Transport}
+  url         = {https://github.com/jostoelz/Model-for-the-Selection-of-a-Suitable-Propulsion-Technology-for-Trains-on-the-Radolfzell-Friedrichsh}
 }
 ```
 
